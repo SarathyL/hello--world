@@ -1,2 +1,4 @@
 # hello--world
-Beginner in git, to put in all the code I will ever write
+Beginner to GitHub, to put in all the code I write
+
+Mainly focussing on Verilog, python scripts etc.
